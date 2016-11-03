@@ -1,4 +1,4 @@
-This project is a resource page for a project around Los Angeles mural collections. The idea for the project emerged during a seminar course at UCLA's Urban Humanities Summer Institute. The idea is fairly simple, bring together as many mural collections from the Los Angeles area and put them on a map, provide the underlying metadata, and give some ideas of how to create your own maps and generally use the data. 
+This site is a resource page for a project around Los Angeles mural collections. The idea for the project emerged during a seminar course at UCLA's Urban Humanities Summer Institute. The idea is fairly simple, bring together as many mural collections from the Los Angeles area and put them on a map, provide the underlying metadata, and give some ideas for how to create your own maps and generally use the data. 
 
 Thanks to:
 
