@@ -5,14 +5,14 @@ Thanks to:
 Wayne Shoaf at USC for providing original metadata for The Robin Dunitz Collecition.
 Mark Matney for providing original metadata for the Nancy Tovar Collection.
 Stacy Williams at USC for providing access and answers to original Dunitz archival materials.
-Miriam Posner for providing guidance and inspiration, espeically through her DH courses at UCLA.
+Miriam Posner for providing guidance and inspiration, especially through her DH courses at UCLA.
 Yoh Kawano and Albert Kochaphum for countless hours of support and collaboration through UCLA's Institute for Digital Research and Education.
 
 To all the muralists past, present, and future. 
 
 ------------------------------------------------------------------------------------
 
-Thank You to Blackrockdigital for setting up the orginal repo. More info below:
+Thank you to Blackrockdigital for setting up the orginal repo. More info below:
 #Clean Blog by Start Bootstrap - Jekyll Version
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
