@@ -1,24 +1,22 @@
+This project repository is a resource page for ongoing work around Los Angeles mural collections. The idea for the project emerged during a seminar course at UCLA's Urban Humanities Summer Institute. The idea is fairly simple, bring together as many mural collections from the Los Angeles area as possible and put them on a map, provide the underlying metadata, and give some ideas for how to create your own maps and generally use the data. 
+
+Thanks to:
+
+Wayne Shoaf at USC for providing original metadata for The Robin Dunitz Collecition.
+Mark Matney and the Digital Library Program team at UCLA for providing original metadata for the Nancy Tovar Collection.
+Stacy Williams at USC for providing answers and guidance to the Robin Dunitz Archive.
+Miriam Posner for providing guidance and inspiration, especially through her DH courses at UCLA.
+Todd Presner, Jonathan Banfill, and everyone involved in the UHI program. 
+Zoe Borovsky and everyone involved in UCLA's DResSUP Program.
+Yoh Kawano and Albert Kochaphum at UCLA's Institute for Digital Research and Education for countless hours of support and collaboration.
+
+To all the muralists past, present, and future. 
+
+------------------------------------------------------------------------------------
+
+Thank you to Blackrockdigital for setting up the orginal repo. More info below:
 #Clean Blog by Start Bootstrap - Jekyll Version
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
 ###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
-
-## Before You Begin
-
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
-
-It should look like this:
-`baseurl: ""`
-
-## What's Included
-
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
-
-## Support
-
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
