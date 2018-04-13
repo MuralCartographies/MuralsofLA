@@ -26,3 +26,4 @@ gems: [jekyll-paginate, jekyll-feed]
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
