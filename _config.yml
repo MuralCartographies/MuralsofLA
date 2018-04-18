@@ -1,7 +1,7 @@
 # Site settings
 title: Mapping Los Angeles Murals
 header-img: img.home-bg.jpg
-email: arutkowski@library.ucla.edu
+email: arutkows@usc.edu
 copyright_name: MappingLosAngelesMurals
 description: "This project maps mural collections from across the Los Angeles area, including UCLA and USC"
 baseurl: "https://muralcartographies.github.io/MuralsofLA/"
