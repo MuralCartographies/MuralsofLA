@@ -13,6 +13,9 @@ github_username:  andyrutkowskiucla
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
 
+
+google_verify: 8LEuSsDzRC0EElSeRsEE-2JSPAUVLeZOwVygkhUAD0E"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
