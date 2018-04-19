@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-    <meta name="google-site-verification" content="8LEuSsDzRC0EElSeRsEE-2JSPAUVLeZOwVygkhUAD0E" />
+    {% if site.google_verify %}
+    <meta name="8LEuSsDzRC0EElSeRsEE-2JSPAUVLeZOwVygkhUAD0E" content="{{ site.google_verify }}">
+{% endif %}
 <body>
 
     {% include nav.html %}
