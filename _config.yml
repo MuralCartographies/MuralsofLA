@@ -14,7 +14,7 @@ github_username:  andyrutkowskiucla
 # google_tracking_id:
 
 
-google_verify: 8LEuSsDzRC0EElSeRsEE-2JSPAUVLeZOwVygkhUAD0E
+google_verify: "8LEuSsDzRC0EElSeRsEE-2JSPAUVLeZOwVygkhUAD0E"
 
 # Build settings
 markdown: kramdown
